@@ -1,1 +1,1 @@
-console.log("model");
+console.log("model, day la nhanh release a");
